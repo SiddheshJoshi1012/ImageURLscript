@@ -1,0 +1,5 @@
+import urllib.request
+
+url='URL of The Image'
+
+urllib.request.urlretrieve(url,'Any name of image which you are downloading for e.g Flower.jpg')
